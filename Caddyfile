@@ -1,0 +1,4 @@
+:2080
+
+reverse_proxy /gocart/* :3000
+reverse_proxy :3001
